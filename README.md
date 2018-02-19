@@ -1,5 +1,2 @@
 # Tasca-2.5
-Repository per a la tasca 2.5 jordi herranz
-
-
-amb una modificacio
+Repositori del jordi que no sap ni com es diu el seu propi repositori, si esque valla tela tiu!
